@@ -1,6 +1,6 @@
-Hi there! 👋
+## Hi there! 👋
 
-I'm Ayush Daga, a robotics enthusiast and developer passionate about creating intelligent systems and innovative solutions.
+# I'm Ayush Daga, a robotics enthusiast and developer passionate about creating intelligent systems and innovative solutions.
 Welcome to my GitHub profile!
 <!--
 **dagaayush1205/dagaayush1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
