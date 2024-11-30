@@ -3,6 +3,7 @@
 I'm Ayush Daga, an undergraduate student at SRM IST studying Computer Science. I have intterest robotics, embedded system and operating systems.
 - 🤖 I'm currently working with Zephyr RTOS on [tarzan](https://www.github.com/dagaayush1205/tarzan).
 - 🔭 Reach me here: [Gmail](mailto:dagaayush1205@gmail.com) [Instagram](https://www.instagram.com/ayushdagaa)
+
 - [![Stat](https://github-readme-stats.vercel.app/api?username=dagaayush1205&count_private=true&hide=stars&show_icons=true&line_height=29&theme=radical&rank_icon=github)](https://github.com/dagaayush1205)
 [![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagaayush1205&layout=compact&langs_count=8&hide=HTML,PostScript&theme=radical)](https://github.com/dagayush1205)
 
